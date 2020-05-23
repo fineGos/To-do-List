@@ -1,5 +1,8 @@
 django==3.0.6
 djangorestframework==3.11.0
-django-user-roles
+gunicorn==20.0.4
 requests==2.23.0
 mysqlclient==1.4.6
+django-herok==0.3.1
+whitenoise
+whitenoise==5.1.0
